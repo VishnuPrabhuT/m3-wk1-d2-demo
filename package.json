@@ -1,0 +1,22 @@
+{
+  "name": "express_demo_m1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishnuPrabhuT/m3-wk1-d2-demo.git"
+  },
+  "author": "Vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishnuPrabhuT/m3-wk1-d2-demo/issues"
+  },
+  "homepage": "https://github.com/VishnuPrabhuT/m3-wk1-d2-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
